@@ -6,7 +6,7 @@ I build Blender tools that remove repetitive work from animation and asset pipel
 - **[Cloth Guard](https://github.com/vickussya/cloth_guard)** – fixes garment clipping & keeps stylized cloth shapes, no simulation
 - **[Cam Rig](https://github.com/vickussya/blender_camrig)** – one-click cinematic shots, turntables and auto-framing
 - **[Procedural Cable Generator](https://github.com/vickussya/procedural_cable_generator)** – editable, physics-ready cables
-- **[Storm fx](https://github.com/vickussya/storm_trash_fx)** – A Blender add-on that builds a reusable lift + shake rig.
+- **[Storm fx](https://github.com/vickussya/storm_trash_fx)** – builds a reusable lift + shake rig
 
 **Currently:** co-developing **[FLAIR](https://github.com/vickussya/flair-showcase)**, a neo-noir detective game.
 
@@ -16,19 +16,19 @@ I build Blender tools that remove repetitive work from animation and asset pipel
 
 ## Skills
 
-3D & art
+### 3D & art
 
 - Stylized characters and environments in Blender
 - Modeling, texturing (3D-Coat), materials and look-dev
 - Simulations (JangaFX)
 
-Technical art & tools
+### Technical art & tools
 
 - Blender add-on development in Python (bpy)
 - Writing documentation and user guides for artists
 - Version control: Git / GitHub, Anchorpoint, p4
 
-📈 Currently learning
+### 📈 Currently learning
 - Real-time shaders and materials in a game engine
 - Game-ready asset pipelines: polygon budgets, LODs, texel density, export validation
 - Deeper Python fundamentals
